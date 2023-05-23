@@ -1,7 +1,7 @@
 # 💫 About Me:
 Front-End Developer | React Enthusiast | UI/UX Lover<br><br>👋 Hello there! I'm Mostafa Hosseini, a passionate front-end developer specializing in React. With over 5 years of experience in web development, I have honed my skills in creating engaging and responsive user interfaces.<br><br>💻 Currently, I'm working at Dayan Group, where I contribute to building dynamic and intuitive web applications. My expertise lies in harnessing the power of React and its ecosystem to deliver seamless user experiences.<br><br>🚀 I thrive on solving complex challenges and bringing ideas to life through elegant code. I'm passionate about crafting clean and maintainable codebases that adhere to best practices and enhance team collaboration.<br><br>🎨 As a UI/UX lover, I believe that a well-designed interface is crucial for user satisfaction. I pay great attention to detail, ensuring that my applications are visually appealing, intuitive, and accessible to a wide range of users.<br><br>🌟 Outside of work, I'm an avid learner, always exploring new front-end technologies and keeping up with the latest industry trends. I'm enthusiastic about contributing to open source projects and collaborating with fellow developers to create innovative solutions.<br><br>✨ Let's connect and collaborate! Feel free to explore my repositories and reach out for any front-end development discussions or exciting opportunities.<br>
 
-
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mostafa_hosseini_db) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafahosseinidb) 
 
